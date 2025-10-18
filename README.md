@@ -30,8 +30,8 @@ Currently a Computer Science student at SRM Institute Chennai | Open Source Enth
 </a>
 
 ### 🚀 Featured Projects
-[![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=Not-Buddy&repo=HackerXAPI&theme=transparent)](https://github.com/Not-Buddy/HackerXAPI)
-[![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=Not-Buddy&repo=CodeVedas_SIH&theme=transparent)]([https://github.com/Not-Buddy/CodeVedas_SIH)
+[![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=Not-Buddy&repo=HackerXAPI&theme=transparent)](https://github.com/Not-Buddy/HackerXAPI)
+[![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=Not-Buddy&repo=CodeVedas_SIH&theme=transparent)](https://github.com/Not-Buddy/CodeVedas_SIH)
 
 ### 📫 Connect with me!
 - [Discord](https://discord.gg/fAU5gPtY)
