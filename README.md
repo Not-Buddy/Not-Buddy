@@ -34,7 +34,7 @@ Currently a Computer Science student at SRM Institute Chennai | Open Source Enth
 [![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=Not-Buddy&repo=CodeVedas_SIH&theme=transparent)](https://github.com/Not-Buddy/CodeVedas_SIH)
 
 ### 📫 Connect with me!
-- [Discord](https://discord.gg/fAU5gPtY)
+- [Discord](stargazer_morty) :- stargazer_morty
 - [LinkedIn](https://www.linkedin.com/in/aary-k-a77499240/)
 
 > "Code is like humor. When you have to explain it, it’s bad." — Nobody
