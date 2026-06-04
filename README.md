@@ -1,7 +1,8 @@
 # Hi, I'm Aary Kinge 👋
 
-I'm a passionate software engineer specializing in machine learning, systems programming, and open source projects. I enjoy exploring new technologies and contributing to the developer community.
-Currently a Computer Science student at SRM Institute Chennai | Open Source Enthusiast
+If you're passionate about technology, you'll likely enjoy exploring my repositories. They are filled with projects that focus on innovative ideas and challenging technical concepts. Rust is my language of choice, and most of my work is built with it.
+
+I have a particular interest in systems programming concepts such as concurrency, asynchronous programming, resource management, performance optimization, and scalability. I enjoy diving deep into how systems work under the hood and building software that is both efficient and robust.
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
