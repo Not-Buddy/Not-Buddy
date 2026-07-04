@@ -31,7 +31,7 @@ I have a particular interest in systems programming concepts such as concurrency
   </a>
 
 ### 🚀 Featured Projects
-[![Repo1](https://buddy-github-readme-stats.vercel.app/api/pin/?username=Not-Buddy&repo=HackerXAPI&theme=transparent)](https://github.com/Not-Buddy/HackerXAPI)
+[![Repo1](https://buddy-github-readme-stats.vercel.app/api/pin/?username=Not-Buddy&repo=nilsbohr&theme=transparent)](https://github.com/Not-Buddy/nilsbohr)
 [![Repo2](https://buddy-github-readme-stats.vercel.app/api/pin/?username=Not-Buddy&repo=CodeVedas_SIH&theme=transparent)](https://github.com/Not-Buddy/CodeVedas_SIH)
 
 ### 📫 Connect with me!
