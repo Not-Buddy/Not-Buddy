@@ -35,7 +35,6 @@ I have a particular interest in systems programming concepts such as concurrency
 [![Repo2](https://buddy-github-readme-stats.vercel.app/api/pin/?username=Not-Buddy&repo=HackerXAPI&theme=transparent)](https://github.com/Not-Buddy/HackerXAPI)
 
 ### 📫 Connect with me!
-- [Discord](stargazer_morty) :- stargazer_morty
-- [LinkedIn](https://www.linkedin.com/in/aary-k-a77499240/)
+- [LinkedIn](https://www.linkedin.com/in/aary-kinge)
 
 > "Code is like humor. When you have to explain it, it’s bad." — Nobody
